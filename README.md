@@ -1,5 +1,6 @@
 # ServerStressTester
-This was built in python , and is a script and uses argv parameters  
+This was built in python , and is a script and uses argv parameters.  
+The ideia is to allow you to test rest api calls easy and with some informations , like time , positive responses , etc ...  
 
 
 ## How to use it
