@@ -2,7 +2,7 @@
 This was built in python , and is a script and uses argv parameters  
 
 
-#How to use it
+## How to use it
 You can use get and post (only with application/json via data.json) , threads and how many request you can use.  
 
 - python3.6 stress_test_rest_api.py  threads number request type link  
